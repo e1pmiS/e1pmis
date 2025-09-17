@@ -23,5 +23,4 @@ My name is Abdullah Alibrahim, and I am a Software & Cloud Engineer with a focus
 
 ## Some Other Things  
 - 🔭 Currently exploring advanced automation frameworks and cloud-native architectures  
-- 🌱 Expanding knowledge in distributed systems, orchestration, and AI integration  
-- 😄 Pronouns: he/him  
+- 🌱 Expanding knowledge in distributed systems, orchestration, and AI integration 
